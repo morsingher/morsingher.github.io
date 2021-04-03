@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Jesting if it works!
+Just testing if it works!

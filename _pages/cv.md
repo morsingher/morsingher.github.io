@@ -12,9 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in Automation and Control Engineering, Politecnico di Milano, 2017
-* M.S. in Robotics Engineering, Università degli Studi di Genova, 2019
-* M.S. in Robotics Engineering, Ecole Centrale de Nantes, 2019
-* Ph.D in Computer Vision, Università degli Studi di Parma (expected)
+* M.S. in Robotics Engineering, Università degli Studi di Genova - Ecole Centrale de Nantes (double degree), 2019
+* Ph.D in Computer Vision, Università degli Studi di Parma, 2023
 
 Work experience
 ======
