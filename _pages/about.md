@@ -8,4 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Just testing if it works!
+Just testing if it works! Things I would like to blog on:
+
+* New conference paper review about 3d reconstruction, multi-view stereo, depth estimation, and so on
+* Classics paper review
+* Computer vision basics
+* Diary about VO/VSLAM project
+* My own research and projects
+* Learning journal
