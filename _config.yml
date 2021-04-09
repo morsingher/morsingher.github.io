@@ -86,7 +86,7 @@ author:
   location         : "Parma, Italy"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "c-morsingher@ambarella.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/marco-orsingher-800446132/"
+  linkedin         : "marco-orsingher-800446132/"
   orcid            : 
   pinterest        :
   soundcloud       :
